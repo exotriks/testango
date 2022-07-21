@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=testango
+POSTGRES_USER=ecruXHyYRiJalZFncnMFgSvXHyqosxLI
+POSTGRES_PASSWORD=0FQLLV1HmsMn1KhOOx3rihERxlbWr2bjC6A8s0fPVw3Jup0yHmpBiUz0JSWVqtTm
