@@ -12,3 +12,6 @@ def index(request):
     counter.save()
     context = {'value': counter.value}
     return render(request, 'pages/home.html', context)
+
+
+
